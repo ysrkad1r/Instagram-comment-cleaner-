@@ -18,7 +18,7 @@
   const STATE_KEY  = 'igcc_state_v1';
 
   const DEFAULT_CONFIG = {
-    username: 'pete_castigl1one',
+    username: 'your_username',
     batchMin: 10,
     batchMax: 20,
     delayMin: 500,
