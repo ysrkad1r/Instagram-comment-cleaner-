@@ -9,7 +9,7 @@ Instagram'ın kendi web arayüzü üzerinde çalışır; şifre, API token'ı ve
 ---
 
 <p align="center">
-  <img src="./assets/panel.png" alt="IG Yorum Temizleyici Kontrol Paneli" width="380">
+  <img src="./assets/img.jpeg" alt="IG Yorum Temizleyici Kontrol Paneli" width="380">
 </p>
 
 ---
